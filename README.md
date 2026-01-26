@@ -1,5 +1,4 @@
--  Hi, I’m @tsaha56, a Mech Graduate from Bangladesh, currently part of Production Department at BSRM Steels Rolling.
--  I’m interested in Fluid Mechanics, CFD, thermal science, Material Engineering and overall computational aspects of mechanical engineering.
--  I’m currently learning ML, Core CFD, LBM and Optimization Techniques/Algorithms.
--  I’m looking for gradaute opportunities to further bolster my knowledge on mechanical engineering.
+- 👋 Hi, I’m @tsaha56, an M.S. Mechanical Engineering student at Clarkson University and a Graduate Research Assistant in the Photo-Acoustic Research (PAR) Lab.
+- 👀 I’m interested in Non-Destructive Evaluation (NDE), ultrasonics, AI/physics-based machine learning, robotics (ROS), and advanced manufacturing.
+- 💻 I use ANSYS/Abaqus for simulation and Python/MATLAB (plus LabVIEW) for signal processing, data analysis, and ML/DL model development.
 -  How to reach me email: p.tonmoy.saha@gmail.com
